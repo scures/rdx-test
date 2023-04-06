@@ -1,0 +1,1253 @@
+{
+  "lastUpdate": "2023-04-04T15:07:11.032Z",
+  "extensions": [
+    {
+      "id": "",
+      "name": "OracleXE 21c embedded RDBMS - Slim",
+      "slug": "mochoa/oraclexe-docker-extension",
+      "type": "extension",
+      "publisher": {
+        "name": "Marcelo Ochoa"
+      },
+      "created_at": "2023-03-02T09:04:18.883539854Z",
+      "updated_at": "2023-02-28T12:36:14.377758546Z",
+      "short_description": "Docker Extension for using Oracle XE 21c embedded RDBMS including SQLcl tool",
+      "source": "community",
+      "extension_reviewed": false,
+      "popularity": 0,
+      "categories": null,
+      "operating_systems": [],
+      "architectures": [],
+      "logo_url": {
+        "large": "https://desktop.docker.com/extensions/mochoa_oraclexe-docker-extension/raw_githubusercontent_com/marcelo-ochoa/oraclexe-docker-extension/21.3.0-slim/client/public/favicon.ico",
+        "small": "https://desktop.docker.com/extensions/mochoa_oraclexe-docker-extension/raw_githubusercontent_com/marcelo-ochoa/oraclexe-docker-extension/21.3.0-slim/client/public/favicon.ico"
+      },
+      "certification_status": "",
+      "star_count": 0,
+      "filter_type": "community"
+    },
+    {
+      "id": "",
+      "name": "Flomesh Advance",
+      "slug": "flomesh/trafficguru-pro-docker-ext",
+      "type": "extension",
+      "publisher": {
+        "name": "Flomesh Ltd."
+      },
+      "created_at": "2023-03-23T09:04:28.382695172Z",
+      "updated_at": "2023-03-25T05:18:29.509368678Z",
+      "short_description": "Flomesh Advance is a robust and comprehensive web control panel for Kubernetes and traffic management,                                          designed to cater to the needs of enterprise-level Kubernetes users.",
+      "source": "community",
+      "extension_reviewed": false,
+      "popularity": 0,
+      "categories": null,
+      "operating_systems": [],
+      "architectures": [],
+      "logo_url": {
+        "large": "https://desktop.docker.com/extensions/flomesh_trafficguru-pro-docker-ext/flomesh_io/img/flomesh.svg",
+        "small": "https://desktop.docker.com/extensions/flomesh_trafficguru-pro-docker-ext/flomesh_io/img/flomesh.svg"
+      },
+      "certification_status": "",
+      "star_count": 0,
+      "filter_type": "community"
+    },
+    {
+      "id": "",
+      "name": "Akita API Extension",
+      "slug": "akitasoftware/akita-docker-extension",
+      "type": "extension",
+      "publisher": {
+        "name": "Akita Software"
+      },
+      "created_at": "2022-12-12T00:00:00.197405487Z",
+      "updated_at": "2023-03-23T17:51:50.836001995Z",
+      "short_description": "Drop in Agent for API Monitoring and Observability",
+      "source": "community",
+      "extension_reviewed": true,
+      "popularity": 0,
+      "categories": null,
+      "operating_systems": [],
+      "architectures": [],
+      "logo_url": {
+        "large": "https://desktop.docker.com/extensions/akitasoftware_akita-docker-extension/akita-static-assets_s3_us-west-2_amazonaws_com/docker-extension/aki_full.svg",
+        "small": "https://desktop.docker.com/extensions/akitasoftware_akita-docker-extension/akita-static-assets_s3_us-west-2_amazonaws_com/docker-extension/aki_full.svg"
+      },
+      "certification_status": "",
+      "star_count": 0,
+      "filter_type": "community"
+    },
+    {
+      "id": "",
+      "name": "Alfresco Community",
+      "slug": "angelborroy/alfresco-extension",
+      "type": "extension",
+      "publisher": {
+        "name": "Hyland"
+      },
+      "created_at": "2023-02-02T08:56:30.658733Z",
+      "updated_at": "2023-01-31T09:42:16.382607256Z",
+      "short_description": "Alfresco Docker Extension",
+      "source": "community",
+      "extension_reviewed": true,
+      "popularity": 0,
+      "categories": null,
+      "operating_systems": [],
+      "architectures": [],
+      "logo_url": {
+        "large": "https://desktop.docker.com/extensions/angelborroy_alfresco-extension/raw_githubusercontent_com/AlfrescoLabs/alfresco-docker-extension/main/alfresco.svg",
+        "small": "https://desktop.docker.com/extensions/angelborroy_alfresco-extension/raw_githubusercontent_com/AlfrescoLabs/alfresco-docker-extension/main/alfresco.svg"
+      },
+      "certification_status": "",
+      "star_count": 0,
+      "filter_type": "community"
+    },
+    {
+      "id": "",
+      "name": "Ambassador Telepresence",
+      "slug": "ambassador/telepresence-docker-extension",
+      "type": "extension",
+      "publisher": {
+        "name": "Ambassador Labs"
+      },
+      "created_at": "2022-05-06T00:59:00Z",
+      "updated_at": "2023-03-22T23:48:31.260325209Z",
+      "short_description": "Instantly bridge your workstation with Kubernetes clusters in the cloud. Test local changes against remote dependencies and share previews with your team.",
+      "source": "verified_publisher",
+      "extension_reviewed": true,
+      "popularity": 0,
+      "categories": null,
+      "operating_systems": [],
+      "architectures": [],
+      "logo_url": {
+        "large": "https://desktop.docker.com/extensions/ambassador_telepresence-docker-extension/datawire-static-files_s3_amazonaws_com/brand/ambassador-labs-logomark-full-color-rgb.svg",
+        "small": "https://desktop.docker.com/extensions/ambassador_telepresence-docker-extension/datawire-static-files_s3_amazonaws_com/brand/ambassador-labs-logomark-full-color-rgb.svg"
+      },
+      "certification_status": "",
+      "star_count": 0,
+      "filter_type": "verified_publisher"
+    },
+    {
+      "id": "",
+      "name": "anchore",
+      "slug": "anchore/docker-desktop-extension",
+      "type": "extension",
+      "publisher": {
+        "name": "Anchore Inc."
+      },
+      "created_at": "2022-05-06T00:58:00Z",
+      "updated_at": "2022-10-19T17:40:19.947055488Z",
+      "short_description": "Content and security analysis for container images",
+      "source": "community",
+      "extension_reviewed": true,
+      "popularity": 0,
+      "categories": null,
+      "operating_systems": [],
+      "architectures": [],
+      "logo_url": {
+        "large": "https://desktop.docker.com/extensions/anchore_docker-desktop-extension/user-images_githubusercontent_com/590471/164125752-b83d973c-f161-4d54-889f-352dee0ec795.svg",
+        "small": "https://desktop.docker.com/extensions/anchore_docker-desktop-extension/user-images_githubusercontent_com/590471/164125752-b83d973c-f161-4d54-889f-352dee0ec795.svg"
+      },
+      "certification_status": "",
+      "star_count": 0,
+      "filter_type": "community"
+    },
+    {
+      "id": "",
+      "name": "Dive Into Ansible",
+      "slug": "spurin/diveintoansible-extension",
+      "type": "extension",
+      "publisher": {
+        "name": "James Spurin"
+      },
+      "created_at": "2023-02-28T09:04:14.705366551Z",
+      "updated_at": "2023-03-01T16:17:58.575868342Z",
+      "short_description": "Run a Full Ansible Lab Environment within Docker Desktop!",
+      "source": "community",
+      "extension_reviewed": false,
+      "popularity": 0,
+      "categories": null,
+      "operating_systems": [],
+      "architectures": [],
+      "logo_url": {
+        "large": "https://desktop.docker.com/extensions/spurin_diveintoansible-extension/raw_githubusercontent_com/spurin/diveintoansible-extension/main/ansible.svg",
+        "small": "https://desktop.docker.com/extensions/spurin_diveintoansible-extension/raw_githubusercontent_com/spurin/diveintoansible-extension/main/ansible.svg"
+      },
+      "certification_status": "",
+      "star_count": 0,
+      "filter_type": "community"
+    },
+    {
+      "id": "",
+      "name": "Aqua Trivy",
+      "slug": "aquasec/trivy-docker-extension",
+      "type": "extension",
+      "publisher": {
+        "name": "Aqua Security Software"
+      },
+      "created_at": "2022-05-06T00:57:00Z",
+      "updated_at": "2022-11-10T11:32:52.940834571Z",
+      "short_description": "Run unlimited vulnerability scans against remote or locally stored images. Understand any security issues that may be present in images before you pull and use them.",
+      "source": "community",
+      "extension_reviewed": true,
+      "popularity": 0,
+      "categories": null,
+      "operating_systems": [],
+      "architectures": [],
+      "logo_url": {
+        "large": "https://desktop.docker.com/extensions/aquasec_trivy-docker-extension/raw_githubusercontent_com/aquasecurity/trivy-docker-extension/main/trivy.svg",
+        "small": "https://desktop.docker.com/extensions/aquasec_trivy-docker-extension/raw_githubusercontent_com/aquasecurity/trivy-docker-extension/main/trivy.svg"
+      },
+      "certification_status": "",
+      "star_count": 0,
+      "filter_type": "community"
+    },
+    {
+      "id": "",
+      "name": "Blockly Automation",
+      "slug": "ignatandrei/blockly-automation",
+      "type": "extension",
+      "publisher": {
+        "name": "Andrei Ignat"
+      },
+      "created_at": "2023-03-20T10:04:32.721062423Z",
+      "updated_at": "2022-06-06T04:25:38.6530251Z",
+      "short_description": "A extension that displays lowCode with Blockly for any Docker command",
+      "source": "community",
+      "extension_reviewed": false,
+      "popularity": 0,
+      "categories": null,
+      "operating_systems": [],
+      "architectures": [],
+      "logo_url": {
+        "large": "https://desktop.docker.com/extensions/ignatandrei_blockly-automation/github_com/ignatandrei/BlocklyAutomation/wiki/imgs/logoBADocker.png",
+        "small": "https://desktop.docker.com/extensions/ignatandrei_blockly-automation/github_com/ignatandrei/BlocklyAutomation/wiki/imgs/logoBADocker.png"
+      },
+      "certification_status": "",
+      "star_count": 0,
+      "filter_type": "community"
+    },
+    {
+      "id": "",
+      "name": "Volumes Backup & Share",
+      "slug": "docker/volumes-backup-extension",
+      "type": "extension",
+      "publisher": {
+        "name": "Docker Inc."
+      },
+      "created_at": "2022-08-31T14:31:40.567394Z",
+      "updated_at": "2023-01-17T14:27:39.539953512Z",
+      "short_description": "Backup, clone, restore, and share Docker volumes effortlessly.",
+      "source": "verified_publisher",
+      "extension_reviewed": true,
+      "popularity": 0,
+      "categories": null,
+      "operating_systems": [],
+      "architectures": [],
+      "logo_url": {
+        "large": "https://desktop.docker.com/extensions/docker_volumes-backup-extension/raw_githubusercontent_com/docker/volumes-backup-extension/main/icon.svg",
+        "small": "https://desktop.docker.com/extensions/docker_volumes-backup-extension/raw_githubusercontent_com/docker/volumes-backup-extension/main/icon.svg"
+      },
+      "certification_status": "",
+      "star_count": 0,
+      "filter_type": "verified_publisher"
+    },
+    {
+      "id": "",
+      "name": "Calyptia Core",
+      "slug": "calyptia/core-docker-desktop",
+      "type": "extension",
+      "publisher": {
+        "name": "Calyptia Inc."
+      },
+      "created_at": "2022-11-07T13:35:06.270715Z",
+      "updated_at": "2023-03-15T10:38:43.463023592Z",
+      "short_description": "Use Calyptia Core within Docker Desktop to manage observability",
+      "source": "community",
+      "extension_reviewed": true,
+      "popularity": 0,
+      "categories": null,
+      "operating_systems": [],
+      "architectures": [],
+      "logo_url": {
+        "large": "https://desktop.docker.com/extensions/calyptia_core-docker-desktop/storage_googleapis_com/calyptia_public_resources_bucket/docker-desktop/calyptia.svg",
+        "small": "https://desktop.docker.com/extensions/calyptia_core-docker-desktop/storage_googleapis_com/calyptia_public_resources_bucket/docker-desktop/calyptia.svg"
+      },
+      "certification_status": "",
+      "star_count": 0,
+      "filter_type": "community"
+    },
+    {
+      "id": "",
+      "name": "NGINX Development Center",
+      "slug": "nginx/docker-extension",
+      "type": "extension",
+      "publisher": {
+        "name": "NGINX Inc."
+      },
+      "created_at": "2023-03-20T10:04:32.72909316Z",
+      "updated_at": "2023-03-20T23:48:45.130868779Z",
+      "short_description": "NGINX Development Center for Docker Desktop",
+      "source": "community",
+      "extension_reviewed": false,
+      "popularity": 0,
+      "categories": null,
+      "operating_systems": [],
+      "architectures": [],
+      "logo_url": {
+        "large": "https://desktop.docker.com/extensions/nginx_docker-extension/raw_githubusercontent_com/nginx/docker-extension/main/logo.svg",
+        "small": "https://desktop.docker.com/extensions/nginx_docker-extension/raw_githubusercontent_com/nginx/docker-extension/main/logo.svg"
+      },
+      "certification_status": "",
+      "star_count": 0,
+      "filter_type": "community"
+    },
+    {
+      "id": "",
+      "name": "Drone CI",
+      "slug": "drone/drone-ci-docker-extension",
+      "type": "extension",
+      "publisher": {
+        "name": "Harness"
+      },
+      "created_at": "2022-10-07T08:46:16.717826Z",
+      "updated_at": "2022-10-31T06:38:14.048903982Z",
+      "short_description": "Run Continuous Integration & Delivery Pipelines (CI/CD) from within Docker Desktop.",
+      "source": "community",
+      "extension_reviewed": true,
+      "popularity": 0,
+      "categories": null,
+      "operating_systems": [],
+      "architectures": [],
+      "logo_url": {
+        "large": "https://desktop.docker.com/extensions/drone_drone-ci-docker-extension/github_com/harness/drone-ci-docker-extension/raw/main/etc/icon.png",
+        "small": "https://desktop.docker.com/extensions/drone_drone-ci-docker-extension/github_com/harness/drone-ci-docker-extension/raw/main/etc/icon.png"
+      },
+      "certification_status": "",
+      "star_count": 0,
+      "filter_type": "community"
+    },
+    {
+      "id": "",
+      "name": "Mini Cluster",
+      "slug": "avhost/docker-mesos-extension",
+      "type": "extension",
+      "publisher": {
+        "name": "AVENTER UG (haftungsbeschränkt)"
+      },
+      "created_at": "2022-08-08T12:20:02.273823Z",
+      "updated_at": "2023-01-13T12:25:38.752341384Z",
+      "short_description": "\"Mini Cluster\" enables you run a local Apache Mesos cluster.",
+      "source": "community",
+      "extension_reviewed": true,
+      "popularity": 0,
+      "categories": null,
+      "operating_systems": [],
+      "architectures": [],
+      "logo_url": {
+        "large": "https://desktop.docker.com/extensions/avhost_docker-mesos-extension/www_aventer_biz/assets/images/products/minicluster.svg",
+        "small": "https://desktop.docker.com/extensions/avhost_docker-mesos-extension/www_aventer_biz/assets/images/products/minicluster.svg"
+      },
+      "certification_status": "",
+      "star_count": 0,
+      "filter_type": "community"
+    },
+    {
+      "id": "",
+      "name": "Oracle SQLcl client tool",
+      "slug": "mochoa/sqlcl-docker-extension",
+      "type": "extension",
+      "publisher": {
+        "name": "Marcelo Ochoa"
+      },
+      "created_at": "2022-09-06T12:16:30.219823879Z",
+      "updated_at": "2022-12-13T18:17:46.712890015Z",
+      "short_description": "Docker Extension for using an embedded version of Oracle SQLcl client tool.",
+      "source": "community",
+      "extension_reviewed": true,
+      "popularity": 0,
+      "categories": null,
+      "operating_systems": [],
+      "architectures": [],
+      "logo_url": {
+        "large": "https://desktop.docker.com/extensions/mochoa_sqlcl-docker-extension/raw_githubusercontent_com/marcelo-ochoa/sqlcl-docker-extension/main/client/public/favicon.ico",
+        "small": "https://desktop.docker.com/extensions/mochoa_sqlcl-docker-extension/raw_githubusercontent_com/marcelo-ochoa/sqlcl-docker-extension/main/client/public/favicon.ico"
+      },
+      "certification_status": "",
+      "star_count": 0,
+      "filter_type": "community"
+    },
+    {
+      "id": "",
+      "name": "Digma Continuous Feedback",
+      "slug": "digmaai/digma-docker-extension",
+      "type": "extension",
+      "publisher": {
+        "name": "Digma Inc."
+      },
+      "created_at": "2023-03-24T09:04:46.106453566Z",
+      "updated_at": "2023-04-01T08:09:43.015800507Z",
+      "short_description": "Your code observability data",
+      "source": "community",
+      "extension_reviewed": false,
+      "popularity": 0,
+      "categories": null,
+      "operating_systems": [],
+      "architectures": [],
+      "logo_url": {
+        "large": "https://desktop.docker.com/extensions/digmaai_digma-docker-extension/media-public-1_s3_eu-west-1_amazonaws_com/digma.svg",
+        "small": "https://desktop.docker.com/extensions/digmaai_digma-docker-extension/media-public-1_s3_eu-west-1_amazonaws_com/digma.svg"
+      },
+      "certification_status": "",
+      "star_count": 0,
+      "filter_type": "community"
+    },
+    {
+      "id": "",
+      "name": "Ddosify",
+      "slug": "ddosify/ddosify-docker-extension",
+      "type": "extension",
+      "publisher": {
+        "name": "Ddosify Inc."
+      },
+      "created_at": "2022-06-30T00:59:00Z",
+      "updated_at": "2023-03-23T16:47:24.795371472Z",
+      "short_description": "High-performance, open-source and simple load testing tool, written in Golang.",
+      "source": "community",
+      "extension_reviewed": true,
+      "popularity": 0,
+      "categories": null,
+      "operating_systems": [],
+      "architectures": [],
+      "logo_url": {
+        "large": "https://desktop.docker.com/extensions/ddosify_ddosify-docker-extension/d2uj9largygsoq_cloudfront_net/docker/ddosify-square-icon-db.svg",
+        "small": "https://desktop.docker.com/extensions/ddosify_ddosify-docker-extension/d2uj9largygsoq_cloudfront_net/docker/ddosify-square-icon-db.svg"
+      },
+      "certification_status": "",
+      "star_count": 0,
+      "filter_type": "community"
+    },
+    {
+      "id": "",
+      "name": "KWasm for Docker Desktop",
+      "slug": "0xe282b0/kwasm-docker-desktop",
+      "type": "extension",
+      "publisher": {},
+      "created_at": "2023-03-01T17:32:02.884759068Z",
+      "updated_at": "2023-03-02T14:26:34.830085465Z",
+      "short_description": "WebAssembly Containers for your Docker Desktop Kubernetes",
+      "source": "community",
+      "extension_reviewed": false,
+      "popularity": 0,
+      "categories": null,
+      "operating_systems": [],
+      "architectures": [],
+      "logo_url": {
+        "large": "https://desktop.docker.com/extensions/0xe282b0_kwasm-docker-desktop/raw_githubusercontent_com/KWasm/kwasm.github.io/main/docs/assets/logo.png",
+        "small": "https://desktop.docker.com/extensions/0xe282b0_kwasm-docker-desktop/raw_githubusercontent_com/KWasm/kwasm.github.io/main/docs/assets/logo.png"
+      },
+      "certification_status": "",
+      "star_count": 0,
+      "filter_type": "community"
+    },
+    {
+      "id": "",
+      "name": "Disk Usage",
+      "slug": "docker/disk-usage-extension",
+      "type": "extension",
+      "publisher": {
+        "name": "Docker Inc."
+      },
+      "created_at": "2022-05-06T00:56:00Z",
+      "updated_at": "2022-07-21T09:32:29.682197366Z",
+      "short_description": "View disk space used by Docker and what it's used for. Reclaim disk space in one click.",
+      "source": "verified_publisher",
+      "extension_reviewed": true,
+      "popularity": 0,
+      "categories": null,
+      "operating_systems": [],
+      "architectures": [],
+      "logo_url": {
+        "large": "https://desktop.docker.com/extensions/docker_disk-usage-extension/docker-extension-screenshots_s3_us-east-1_amazonaws_com/disk-usage-extension/hard-drive.svg",
+        "small": "https://desktop.docker.com/extensions/docker_disk-usage-extension/docker-extension-screenshots_s3_us-east-1_amazonaws_com/disk-usage-extension/hard-drive.svg"
+      },
+      "certification_status": "",
+      "star_count": 0,
+      "filter_type": "verified_publisher"
+    },
+    {
+      "id": "",
+      "name": "Dockerfile Diff",
+      "slug": "felipecruz/dockerfile-diff-extension",
+      "type": "extension",
+      "publisher": {
+        "name": "Felipe Cruz"
+      },
+      "created_at": "2023-02-28T16:04:26.770517189Z",
+      "updated_at": "2023-02-28T17:27:33.969196266Z",
+      "short_description": "Diff local or remotes images so you can more easily see the differences in their Dockerfiles.",
+      "source": "community",
+      "extension_reviewed": false,
+      "popularity": 0,
+      "categories": null,
+      "operating_systems": [],
+      "architectures": [],
+      "logo_url": {
+        "large": "https://desktop.docker.com/extensions/felipecruz_dockerfile-diff-extension/raw_githubusercontent_com/felipecruz91/dockerfile-diff-extension/main/icon-blue.svg",
+        "small": "https://desktop.docker.com/extensions/felipecruz_dockerfile-diff-extension/raw_githubusercontent_com/felipecruz91/dockerfile-diff-extension/main/icon-blue.svg"
+      },
+      "certification_status": "",
+      "star_count": 0,
+      "filter_type": "community"
+    },
+    {
+      "id": "",
+      "name": "Dive In",
+      "slug": "prakhar1989/dive-in",
+      "type": "extension",
+      "publisher": {
+        "name": "Prakhar Srivastav"
+      },
+      "created_at": "2022-12-08T10:21:03.197405487Z",
+      "updated_at": "2023-03-18T19:46:15.051297764Z",
+      "short_description": "Explore docker images, layer contents, and discover ways to shrink the size of your Docker/OCI image.",
+      "source": "community",
+      "extension_reviewed": true,
+      "popularity": 0,
+      "categories": null,
+      "operating_systems": [],
+      "architectures": [],
+      "logo_url": {
+        "large": "https://desktop.docker.com/extensions/prakhar1989_dive-in/raw_githubusercontent_com/prakhar1989/dive-in/main/scuba.svg",
+        "small": "https://desktop.docker.com/extensions/prakhar1989_dive-in/raw_githubusercontent_com/prakhar1989/dive-in/main/scuba.svg"
+      },
+      "certification_status": "",
+      "star_count": 0,
+      "filter_type": "community"
+    },
+    {
+      "id": "",
+      "name": "Epinio",
+      "slug": "splatform/epinio-docker-desktop",
+      "type": "extension",
+      "publisher": {
+        "name": "Rancher by SUSE"
+      },
+      "created_at": "2022-05-06T00:44:00Z",
+      "updated_at": "2023-03-21T10:27:01.086806118Z",
+      "short_description": "Push from source to Kubernetes in one step",
+      "source": "community",
+      "extension_reviewed": true,
+      "popularity": 0,
+      "categories": null,
+      "operating_systems": [],
+      "architectures": [],
+      "logo_url": {
+        "large": "https://desktop.docker.com/extensions/splatform_epinio-docker-desktop/epinio_io/images/icon-epinio.svg",
+        "small": "https://desktop.docker.com/extensions/splatform_epinio-docker-desktop/epinio_io/images/icon-epinio.svg"
+      },
+      "certification_status": "",
+      "star_count": 0,
+      "filter_type": "community"
+    },
+    {
+      "id": "",
+      "name": "Logs Explorer",
+      "slug": "docker/logs-explorer-extension",
+      "type": "extension",
+      "publisher": {
+        "name": "Docker Inc."
+      },
+      "created_at": "2022-05-06T00:54:00Z",
+      "updated_at": "2023-01-06T10:13:10.265019333Z",
+      "short_description": "View all your container logs in one place so you can debug and troubleshoot faster.",
+      "source": "verified_publisher",
+      "extension_reviewed": true,
+      "popularity": 0,
+      "categories": null,
+      "operating_systems": [],
+      "architectures": [],
+      "logo_url": {
+        "large": "https://desktop.docker.com/extensions/docker_logs-explorer-extension/docker-extension-screenshots_s3_amazonaws_com/logs-explorer-extension/icon.svg",
+        "small": "https://desktop.docker.com/extensions/docker_logs-explorer-extension/docker-extension-screenshots_s3_amazonaws_com/logs-explorer-extension/icon.svg"
+      },
+      "certification_status": "",
+      "star_count": 0,
+      "filter_type": "verified_publisher"
+    },
+    {
+      "id": "",
+      "name": "Registry Explorer",
+      "slug": "nicobeck/registry-explorer-extension",
+      "type": "extension",
+      "publisher": {
+        "name": "Nicolas Beck"
+      },
+      "created_at": "2023-03-22T10:04:34.32283466Z",
+      "updated_at": "2023-03-01T11:50:15.435434669Z",
+      "short_description": "Explore what's inside the tags published on Docker Hub and drill into the images, layers & files.",
+      "source": "community",
+      "extension_reviewed": false,
+      "popularity": 0,
+      "categories": null,
+      "operating_systems": [],
+      "architectures": [],
+      "logo_url": {
+        "large": "https://desktop.docker.com/extensions/nicobeck_registry-explorer-extension/raw_githubusercontent_com/nico1510/registry-explorer-extension/main/icon.svg",
+        "small": "https://desktop.docker.com/extensions/nicobeck_registry-explorer-extension/raw_githubusercontent_com/nico1510/registry-explorer-extension/main/icon.svg"
+      },
+      "certification_status": "",
+      "star_count": 0,
+      "filter_type": "community"
+    },
+    {
+      "id": "",
+      "name": "Excalidraw",
+      "slug": "ivancurkovic046/excalidraw-docker-extension",
+      "type": "extension",
+      "publisher": {
+        "name": "ivan-curkovic"
+      },
+      "created_at": "2023-03-03T14:04:13.137523964Z",
+      "updated_at": "2023-03-03T12:28:02.177373287Z",
+      "short_description": "Docker Extension for the Excalidraw - virtual whiteboard for sketching hand-draw like diagrams",
+      "source": "community",
+      "extension_reviewed": false,
+      "popularity": 0,
+      "categories": null,
+      "operating_systems": [],
+      "architectures": [],
+      "logo_url": {
+        "large": "https://desktop.docker.com/extensions/ivancurkovic046_excalidraw-docker-extension/raw_githubusercontent_com/ivan-curkovic/excalidraw-docker-extension/main/excalidraw-logo.png",
+        "small": "https://desktop.docker.com/extensions/ivancurkovic046_excalidraw-docker-extension/raw_githubusercontent_com/ivan-curkovic/excalidraw-docker-extension/main/excalidraw-logo.png"
+      },
+      "certification_status": "",
+      "star_count": 0,
+      "filter_type": "community"
+    },
+    {
+      "id": "",
+      "name": "Flomesh Express",
+      "slug": "flomesh/trafficguru-docker-ext",
+      "type": "extension",
+      "publisher": {
+        "name": "Flomesh Ltd."
+      },
+      "created_at": "2023-03-07T09:04:05.392524816Z",
+      "updated_at": "2023-03-25T05:17:27.846670475Z",
+      "short_description": "Flomesh Express is a graphical web console for Kubernetes and traffic management designed for developers                                          and small to medium-sized users.It is built on top of the open-source software Traffic Guru, offering a                                          comprehensive suite of features to enable efficient and scalable management of containerized applications                                          and traffic flow.",
+      "source": "community",
+      "extension_reviewed": false,
+      "popularity": 0,
+      "categories": null,
+      "operating_systems": [],
+      "architectures": [],
+      "logo_url": {
+        "large": "https://desktop.docker.com/extensions/flomesh_trafficguru-docker-ext/flomesh_io/img/flomesh.svg",
+        "small": "https://desktop.docker.com/extensions/flomesh_trafficguru-docker-ext/flomesh_io/img/flomesh.svg"
+      },
+      "certification_status": "",
+      "star_count": 0,
+      "filter_type": "community"
+    },
+    {
+      "id": "",
+      "name": "Mongo Express",
+      "slug": "saniewski/mongo-express-docker-extension",
+      "type": "extension",
+      "publisher": {
+        "name": "Pawel Saniewski"
+      },
+      "created_at": "2023-03-09T10:04:30.580695069Z",
+      "updated_at": "2023-02-10T00:01:47.450774Z",
+      "short_description": "Run Mongo Express in Docker Desktop and connect to any MongoDB server.",
+      "source": "community",
+      "extension_reviewed": false,
+      "popularity": 0,
+      "categories": null,
+      "operating_systems": [],
+      "architectures": [],
+      "logo_url": {
+        "large": "https://desktop.docker.com/extensions/saniewski_mongo-express-docker-extension/raw_githubusercontent_com/Saniewski/mongo-express-docker-extension/main/favicon.ico",
+        "small": "https://desktop.docker.com/extensions/saniewski_mongo-express-docker-extension/raw_githubusercontent_com/Saniewski/mongo-express-docker-extension/main/favicon.ico"
+      },
+      "certification_status": "",
+      "star_count": 0,
+      "filter_type": "community"
+    },
+    {
+      "id": "",
+      "name": "Faros",
+      "slug": "farosai/faros-ce-docker-extension",
+      "type": "extension",
+      "publisher": {
+        "name": "Faros AI, Inc."
+      },
+      "created_at": "2023-03-14T12:05:58.61778297Z",
+      "updated_at": "2023-03-10T19:27:16.238980667Z",
+      "short_description": "Faros extension for Docker Desktop",
+      "source": "community",
+      "extension_reviewed": false,
+      "popularity": 0,
+      "categories": null,
+      "operating_systems": [],
+      "architectures": [],
+      "logo_url": {
+        "large": "https://desktop.docker.com/extensions/farosai_faros-ce-docker-extension/raw_githubusercontent_com/faros-ai/faros-community-edition/main/img/faros.ico",
+        "small": "https://desktop.docker.com/extensions/farosai_faros-ce-docker-extension/raw_githubusercontent_com/faros-ai/faros-community-edition/main/img/faros.ico"
+      },
+      "certification_status": "",
+      "star_count": 0,
+      "filter_type": "community"
+    },
+    {
+      "id": "",
+      "name": "Flomesh Pipy",
+      "slug": "flomesh/pipy-docker-ext",
+      "type": "extension",
+      "publisher": {
+        "name": "Flomesh Ltd."
+      },
+      "created_at": "2023-03-30T08:05:03.537091435Z",
+      "updated_at": "2023-04-02T15:32:26.472471765Z",
+      "short_description": "Pipy is a programmable proxy for the cloud, edge and IoT.",
+      "source": "community",
+      "extension_reviewed": false,
+      "popularity": 0,
+      "categories": null,
+      "operating_systems": [],
+      "architectures": [],
+      "logo_url": {
+        "large": "https://desktop.docker.com/extensions/flomesh_pipy-docker-ext/flomesh_io/img/flomesh.svg",
+        "small": "https://desktop.docker.com/extensions/flomesh_pipy-docker-ext/flomesh_io/img/flomesh.svg"
+      },
+      "certification_status": "",
+      "star_count": 0,
+      "filter_type": "community"
+    },
+    {
+      "id": "",
+      "name": "Open Source management tool for PostgreSQL",
+      "slug": "mochoa/pgadmin4-docker-extension",
+      "type": "extension",
+      "publisher": {
+        "name": "Marcelo Ochoa"
+      },
+      "created_at": "2022-07-25T00:59:00Z",
+      "updated_at": "2023-03-09T18:08:42.526071801Z",
+      "short_description": "Docker Extension for using an embedded PGAdmin4 Open Source management tool for PostgreSQL.",
+      "source": "community",
+      "extension_reviewed": true,
+      "popularity": 0,
+      "categories": null,
+      "operating_systems": [],
+      "architectures": [],
+      "logo_url": {
+        "large": "https://desktop.docker.com/extensions/mochoa_pgadmin4-docker-extension/raw_githubusercontent_com/marcelo-ochoa/pgadmin4-docker-extension/main/client/public/favicon.ico",
+        "small": "https://desktop.docker.com/extensions/mochoa_pgadmin4-docker-extension/raw_githubusercontent_com/marcelo-ochoa/pgadmin4-docker-extension/main/client/public/favicon.ico"
+      },
+      "certification_status": "",
+      "star_count": 0,
+      "filter_type": "community"
+    },
+    {
+      "id": "",
+      "name": "Gefyra",
+      "slug": "gefyra/docker-desktop-extension",
+      "type": "extension",
+      "publisher": {
+        "name": "Blueshoe GmbH"
+      },
+      "created_at": "2023-02-13T13:45:06.318120871Z",
+      "updated_at": "2023-03-31T14:00:49.225203997Z",
+      "short_description": "Gefyra's Docker extension to bridge running containers into Kubernetes clusters.",
+      "source": "community",
+      "extension_reviewed": true,
+      "popularity": 0,
+      "categories": null,
+      "operating_systems": [],
+      "architectures": [],
+      "logo_url": {
+        "large": "https://desktop.docker.com/extensions/gefyra_docker-desktop-extension/raw_githubusercontent_com/gefyrahq/gefyra-docker-desktop-extension/main/gefyra_icon.svg",
+        "small": "https://desktop.docker.com/extensions/gefyra_docker-desktop-extension/raw_githubusercontent_com/gefyrahq/gefyra-docker-desktop-extension/main/gefyra_icon.svg"
+      },
+      "certification_status": "",
+      "star_count": 0,
+      "filter_type": "community"
+    },
+    {
+      "id": "",
+      "name": "Gosh",
+      "slug": "teamgosh/docker-extension",
+      "type": "extension",
+      "publisher": {
+        "name": "GOSH"
+      },
+      "created_at": "2022-05-06T00:42:00Z",
+      "updated_at": "2023-03-28T22:55:15.685774157Z",
+      "short_description": "Build your decentralized and secure software supply chain with Docker and Git Open Source Hodler",
+      "source": "community",
+      "extension_reviewed": true,
+      "popularity": 0,
+      "categories": null,
+      "operating_systems": [],
+      "architectures": [],
+      "logo_url": {
+        "large": "https://desktop.docker.com/extensions/teamgosh_docker-extension/icons_gosh_run/Gosh%20icon%20-%20black.svg",
+        "small": "https://desktop.docker.com/extensions/teamgosh_docker-extension/icons_gosh_run/Gosh%20icon%20-%20black.svg"
+      },
+      "certification_status": "",
+      "star_count": 0,
+      "filter_type": "community"
+    },
+    {
+      "id": "",
+      "name": "harpoon",
+      "slug": "harpooncorp/harpoon-ext",
+      "type": "extension",
+      "publisher": {
+        "name": "harpoon Corp"
+      },
+      "created_at": "2022-12-20T14:38:05.998518624Z",
+      "updated_at": "2023-02-02T19:25:22.013454389Z",
+      "short_description": "Docker Extension for the No Code Kubernetes platform",
+      "source": "community",
+      "extension_reviewed": true,
+      "popularity": 0,
+      "categories": null,
+      "operating_systems": [],
+      "architectures": [],
+      "logo_url": {
+        "large": "https://desktop.docker.com/extensions/harpooncorp_harpoon-ext/docker-desktop-screenshots_s3_us-west-2_amazonaws_com/harpoon_logo_white_whale_transparent.png",
+        "small": "https://desktop.docker.com/extensions/harpooncorp_harpoon-ext/docker-desktop-screenshots_s3_us-west-2_amazonaws_com/harpoon_logo_white_whale_transparent.png"
+      },
+      "certification_status": "",
+      "star_count": 0,
+      "filter_type": "community"
+    },
+    {
+      "id": "",
+      "name": "Headlamp",
+      "slug": "headlamp/headlamp-docker-extension",
+      "type": "extension",
+      "publisher": {
+        "name": "kinvolk"
+      },
+      "created_at": "2023-03-22T10:04:34.315073292Z",
+      "updated_at": "2023-03-22T05:19:44.506212657Z",
+      "short_description": "An easy-to-use and extensible web UI for Kubernetes.",
+      "source": "community",
+      "extension_reviewed": false,
+      "popularity": 0,
+      "categories": null,
+      "operating_systems": [],
+      "architectures": [],
+      "logo_url": {
+        "large": "https://desktop.docker.com/extensions/headlamp_headlamp-docker-extension/raw_githubusercontent_com/headlamp-k8s/headlamp/main/frontend/public/apple-touch-icon.png",
+        "small": "https://desktop.docker.com/extensions/headlamp_headlamp-docker-extension/raw_githubusercontent_com/headlamp-k8s/headlamp/main/frontend/public/apple-touch-icon.png"
+      },
+      "certification_status": "",
+      "star_count": 0,
+      "filter_type": "community"
+    },
+    {
+      "id": "",
+      "name": "InterSystems",
+      "slug": "caretdev/intersystems-extension",
+      "type": "extension",
+      "publisher": {
+        "name": "CaretDev Corp."
+      },
+      "created_at": "2022-09-16T08:00:45.94235507Z",
+      "updated_at": "2023-02-24T13:45:23.718535512Z",
+      "short_description": "Convenient way to access InterSystems Container Registry, public and private images of such products as IRIS and IRIS for Health and many others in one place.",
+      "source": "community",
+      "extension_reviewed": true,
+      "popularity": 0,
+      "categories": null,
+      "operating_systems": [],
+      "architectures": [],
+      "logo_url": {
+        "large": "https://desktop.docker.com/extensions/caretdev_intersystems-extension/raw_githubusercontent_com/caretdev/docker-intersystems-extension/main/intersystems.svg",
+        "small": "https://desktop.docker.com/extensions/caretdev_intersystems-extension/raw_githubusercontent_com/caretdev/docker-intersystems-extension/main/intersystems.svg"
+      },
+      "certification_status": "",
+      "star_count": 0,
+      "filter_type": "community"
+    },
+    {
+      "id": "",
+      "name": "JFrog",
+      "slug": "jfrog/jfrog-docker-desktop-extension",
+      "type": "extension",
+      "publisher": {
+        "name": "JFrog Ltd."
+      },
+      "created_at": "2022-05-06T00:50:00Z",
+      "updated_at": "2022-09-01T11:48:45.644540229Z",
+      "short_description": "Scan your Docker images for vulnerabilities with JFrog Xray.",
+      "source": "community",
+      "extension_reviewed": true,
+      "popularity": 0,
+      "categories": null,
+      "operating_systems": [],
+      "architectures": [],
+      "logo_url": {
+        "large": "https://desktop.docker.com/extensions/jfrog_jfrog-docker-desktop-extension/raw_githubusercontent_com/jfrog/jfrog-docker-desktop-extension/dev/resources/icon.svg",
+        "small": "https://desktop.docker.com/extensions/jfrog_jfrog-docker-desktop-extension/raw_githubusercontent_com/jfrog/jfrog-docker-desktop-extension/dev/resources/icon.svg"
+      },
+      "certification_status": "",
+      "star_count": 0,
+      "filter_type": "community"
+    },
+    {
+      "id": "",
+      "name": "Kubescape",
+      "slug": "vklokun/docker-desktop-extension",
+      "type": "extension",
+      "publisher": {
+        "name": "ARMO"
+      },
+      "created_at": "2023-02-07T09:03:55.184297Z",
+      "updated_at": "2023-01-23T15:10:33.627762878Z",
+      "short_description": "Secure your Kubernetes cluster and gain insight into your cluster’s security posture via an easy-to-use online dashboard.",
+      "source": "community",
+      "extension_reviewed": true,
+      "popularity": 0,
+      "categories": null,
+      "operating_systems": [],
+      "architectures": [],
+      "logo_url": {
+        "large": "https://desktop.docker.com/extensions/vklokun_docker-desktop-extension/raw_githubusercontent_com/cncf/artwork/ec3936fa0256c768b538247d20f130d293a9faed/projects/kubescape/stacked/color/kubescape-stacked-color.svg",
+        "small": "https://desktop.docker.com/extensions/vklokun_docker-desktop-extension/raw_githubusercontent_com/cncf/artwork/ec3936fa0256c768b538247d20f130d293a9faed/projects/kubescape/stacked/color/kubescape-stacked-color.svg"
+      },
+      "certification_status": "",
+      "star_count": 0,
+      "filter_type": "community"
+    },
+    {
+      "id": "",
+      "name": "LambdaTest Tunnel",
+      "slug": "lambdatestintegrations/lambdatest-tunnel-extension",
+      "type": "extension",
+      "publisher": {
+        "name": "LambdaTest"
+      },
+      "created_at": "2023-03-09T09:10:40.301639Z",
+      "updated_at": "2023-02-11T10:51:17.849842122Z",
+      "short_description": "LambdaTest Tunnel Docker Extension helps to establish a secure connection for testing locally hosted pages & applications on LambdaTest",
+      "source": "community",
+      "extension_reviewed": true,
+      "popularity": 0,
+      "categories": null,
+      "operating_systems": [],
+      "architectures": [],
+      "logo_url": {
+        "large": "https://desktop.docker.com/extensions/lambdatestintegrations_lambdatest-tunnel-extension/www_lambdatest_com/resources/images/docker_extension/docker.svg",
+        "small": "https://desktop.docker.com/extensions/lambdatestintegrations_lambdatest-tunnel-extension/www_lambdatest_com/resources/images/docker_extension/docker.svg"
+      },
+      "certification_status": "",
+      "star_count": 0,
+      "filter_type": "community"
+    },
+    {
+      "id": "",
+      "name": "Lacework Scanner",
+      "slug": "lacework/lacework-docker-extension",
+      "type": "extension",
+      "publisher": {
+        "name": "Lacework Inc."
+      },
+      "created_at": "2022-06-30T00:58:00Z",
+      "updated_at": "2022-07-14T21:18:56.573336185Z",
+      "short_description": "Lacework Scanner integration for Docker Desktop enables developers with the insights to secure build their containers and minimize the vulnerabilities before the images go into production.",
+      "source": "verified_publisher",
+      "extension_reviewed": true,
+      "popularity": 0,
+      "categories": null,
+      "operating_systems": [],
+      "architectures": [],
+      "logo_url": {
+        "large": "https://desktop.docker.com/extensions/lacework_lacework-docker-extension/raw_githubusercontent_com/l6khq/lacework-docker-extension/main/lacework_icon.svg",
+        "small": "https://desktop.docker.com/extensions/lacework_lacework-docker-extension/raw_githubusercontent_com/l6khq/lacework-docker-extension/main/lacework_icon.svg"
+      },
+      "certification_status": "",
+      "star_count": 0,
+      "filter_type": "verified_publisher"
+    },
+    {
+      "id": "",
+      "name": "Lens",
+      "slug": "k8slens/lens-dd-extension",
+      "type": "extension",
+      "publisher": {
+        "name": "Mirantis Inc."
+      },
+      "created_at": "2022-06-02T00:58:00Z",
+      "updated_at": "2022-07-01T06:45:53.410540762Z",
+      "short_description": "Run Lens Kubernetes on your Docker Desktop.",
+      "source": "community",
+      "extension_reviewed": true,
+      "popularity": 0,
+      "categories": null,
+      "operating_systems": [],
+      "architectures": [],
+      "logo_url": {
+        "large": "https://desktop.docker.com/extensions/k8slens_lens-dd-extension/k8slens_dev/images/lens-logo-icon.svg",
+        "small": "https://desktop.docker.com/extensions/k8slens_lens-dd-extension/k8slens_dev/images/lens-logo-icon.svg"
+      },
+      "certification_status": "",
+      "star_count": 0,
+      "filter_type": "community"
+    },
+    {
+      "id": "",
+      "name": "LocalStack",
+      "slug": "localstack/localstack-docker-desktop",
+      "type": "extension",
+      "publisher": {
+        "name": "LocalStack GmbH"
+      },
+      "created_at": "2023-01-11T12:48:35.308672Z",
+      "updated_at": "2023-03-24T17:06:39.433127061Z",
+      "short_description": "Extension of Localstack for Docker desktop",
+      "source": "community",
+      "extension_reviewed": true,
+      "popularity": 0,
+      "categories": null,
+      "operating_systems": [],
+      "architectures": [],
+      "logo_url": {
+        "large": "https://desktop.docker.com/extensions/localstack_localstack-docker-desktop/avatars_githubusercontent_com/u/28732122_dj00",
+        "small": "https://desktop.docker.com/extensions/localstack_localstack-docker-desktop/avatars_githubusercontent_com/u/28732122_dj00"
+      },
+      "certification_status": "",
+      "star_count": 0,
+      "filter_type": "community"
+    },
+    {
+      "id": "",
+      "name": "Memgraph",
+      "slug": "ajeetraina/memgraph-docker-extension",
+      "type": "extension",
+      "publisher": {
+        "name": "Ajeet Singh Raina"
+      },
+      "created_at": "2023-03-22T13:07:08.176076814Z",
+      "updated_at": "2023-03-30T00:31:16.062058296Z",
+      "short_description": "Memgraph Extension for Docker Desktop",
+      "source": "community",
+      "extension_reviewed": false,
+      "popularity": 0,
+      "categories": null,
+      "operating_systems": [],
+      "architectures": [],
+      "logo_url": {
+        "large": "https://desktop.docker.com/extensions/ajeetraina_memgraph-docker-extension/raw_githubusercontent_com/collabnix/memgraph-docker-extension/main/memgraph.svg",
+        "small": "https://desktop.docker.com/extensions/ajeetraina_memgraph-docker-extension/raw_githubusercontent_com/collabnix/memgraph-docker-extension/main/memgraph.svg"
+      },
+      "certification_status": "",
+      "star_count": 0,
+      "filter_type": "community"
+    },
+    {
+      "id": "",
+      "name": "Meshery",
+      "slug": "meshery/docker-extension-meshery",
+      "type": "extension",
+      "publisher": {
+        "name": "Layer5, Inc."
+      },
+      "created_at": "2022-05-06T00:49:00Z",
+      "updated_at": "2023-04-03T19:04:05.028415675Z",
+      "short_description": "Meshery is the open source, cloud native manager that enables the adoption, operation, and management of Kubernetes, any service mesh, and their workloads. Collaboratively design and operate your cloud native deployments with teammates in real-time using Layer5 MeshMap.",
+      "source": "community",
+      "extension_reviewed": true,
+      "popularity": 0,
+      "categories": null,
+      "operating_systems": [],
+      "architectures": [],
+      "logo_url": {
+        "large": "https://desktop.docker.com/extensions/meshery_docker-extension-meshery/raw_githubusercontent_com/meshery/meshery/master/install/docker-extension/docs/img/meshery-logo-light.svg",
+        "small": "https://desktop.docker.com/extensions/meshery_docker-extension-meshery/raw_githubusercontent_com/meshery/meshery/master/install/docker-extension/docs/img/meshery-logo-light.svg"
+      },
+      "certification_status": "",
+      "star_count": 0,
+      "filter_type": "community"
+    },
+    {
+      "id": "",
+      "name": "Microcks",
+      "slug": "microcks/microcks-docker-desktop-extension",
+      "type": "extension",
+      "publisher": {
+        "name": "Microcks"
+      },
+      "created_at": "2022-09-16T08:00:45.932301928Z",
+      "updated_at": "2022-09-15T06:36:40.225479Z",
+      "short_description": "API Mocking and Testing for REST, GraphQL, gRPC and AsyncAPI.",
+      "source": "community",
+      "extension_reviewed": true,
+      "popularity": 0,
+      "categories": null,
+      "operating_systems": [],
+      "architectures": [],
+      "logo_url": {
+        "large": "https://desktop.docker.com/extensions/microcks_microcks-docker-desktop-extension/microcks_io/images/microcks-logo-blue.png",
+        "small": "https://desktop.docker.com/extensions/microcks_microcks-docker-desktop-extension/microcks_io/images/microcks-logo-blue.png"
+      },
+      "certification_status": "",
+      "star_count": 0,
+      "filter_type": "community"
+    },
+    {
+      "id": "",
+      "name": "Mutagen",
+      "slug": "mutagenio/docker-desktop-extension",
+      "type": "extension",
+      "publisher": {
+        "name": "Mutagen IO, Inc."
+      },
+      "created_at": "2023-03-07T09:45:18.602143Z",
+      "updated_at": "2023-02-26T18:37:23.3812378Z",
+      "short_description": "Automatically replace bind mounts with synchronized filesystem caches.",
+      "source": "community",
+      "extension_reviewed": true,
+      "popularity": 0,
+      "categories": null,
+      "operating_systems": [],
+      "architectures": [],
+      "logo_url": {
+        "large": "https://desktop.docker.com/extensions/mutagenio_docker-desktop-extension/mutagen_io/img/docker-desktop-extension.svg",
+        "small": "https://desktop.docker.com/extensions/mutagenio_docker-desktop-extension/mutagen_io/img/docker-desktop-extension.svg"
+      },
+      "certification_status": "",
+      "star_count": 0,
+      "filter_type": "community"
+    },
+    {
+      "id": "",
+      "name": "NebulaGraph",
+      "slug": "weygu/nebulagraph-dd-ext",
+      "type": "extension",
+      "publisher": {
+        "name": "Vesoft Inc."
+      },
+      "created_at": "2023-02-15T14:00:00.137994993Z",
+      "updated_at": "2023-03-20T08:44:41.069506595Z",
+      "short_description": "Easily deploy and test NebulaGraph, the Open-Source Distributed Graph Database.",
+      "source": "community",
+      "extension_reviewed": true,
+      "popularity": 0,
+      "categories": null,
+      "operating_systems": [],
+      "architectures": [],
+      "logo_url": {
+        "large": "https://desktop.docker.com/extensions/weygu_nebulagraph-dd-ext/user-images_githubusercontent_com/1651790/213339618-107d0e59-1b8b-4c89-bbae-5529aa4e2666.svg",
+        "small": "https://desktop.docker.com/extensions/weygu_nebulagraph-dd-ext/user-images_githubusercontent_com/1651790/213339618-107d0e59-1b8b-4c89-bbae-5529aa4e2666.svg"
+      },
+      "certification_status": "",
+      "star_count": 0,
+      "filter_type": "community"
+    },
+    {
+      "id": "",
+      "name": "Neo4j",
+      "slug": "ajeetraina/neo4j-docker-extension",
+      "type": "extension",
+      "publisher": {
+        "name": "Ajeet Singh Raina"
+      },
+      "created_at": "2023-03-10T16:04:40.096808982Z",
+      "updated_at": "2023-03-10T13:45:16.482787376Z",
+      "short_description": "Neo4j Extension for Docker Desktop",
+      "source": "community",
+      "extension_reviewed": false,
+      "popularity": 0,
+      "categories": null,
+      "operating_systems": [],
+      "architectures": [],
+      "logo_url": {
+        "large": "https://desktop.docker.com/extensions/ajeetraina_neo4j-docker-extension/raw_githubusercontent_com/collabnix/neo4j-docker-extension/main/neo4j.svg",
+        "small": "https://desktop.docker.com/extensions/ajeetraina_neo4j-docker-extension/raw_githubusercontent_com/collabnix/neo4j-docker-extension/main/neo4j.svg"
+      },
+      "certification_status": "",
+      "star_count": 0,
+      "filter_type": "community"
+    },
+    {
+      "id": "",
+      "name": "Newman",
+      "slug": "joycelin79/newman-extension",
+      "type": "extension",
+      "publisher": {
+        "name": "Postman"
+      },
+      "created_at": "2022-11-07T14:05:39.513909337Z",
+      "updated_at": "2022-11-10T20:41:11.989880659Z",
+      "short_description": "Run your Postman collections from Docker Desktop.",
+      "source": "community",
+      "extension_reviewed": true,
+      "popularity": 0,
+      "categories": null,
+      "operating_systems": [],
+      "architectures": [],
+      "logo_url": {
+        "large": "https://desktop.docker.com/extensions/joycelin79_newman-extension/voyager_postman_com/icon/icon-newman-docker-orange-postman.svg",
+        "small": "https://desktop.docker.com/extensions/joycelin79_newman-extension/voyager_postman_com/icon/icon-newman-docker-orange-postman.svg"
+      },
+      "certification_status": "",
+      "star_count": 0,
+      "filter_type": "community"
+    },
+    {
+      "id": "",
+      "name": "Okteto",
+      "slug": "okteto/docker-desktop-extension",
+      "type": "extension",
+      "publisher": {
+        "name": "Okteto"
+      },
+      "created_at": "2022-05-06T00:48:00Z",
+      "updated_at": "2022-11-09T08:56:39.054889268Z",
+      "short_description": "Remote Development for Docker Compose",
+      "source": "verified_publisher",
+      "extension_reviewed": true,
+      "popularity": 0,
+      "categories": null,
+      "operating_systems": [],
+      "architectures": [],
+      "logo_url": {
+        "large": "https://desktop.docker.com/extensions/okteto_docker-desktop-extension/www_okteto_com/okteto-symbol-circle-inverse-1.1.png",
+        "small": "https://desktop.docker.com/extensions/okteto_docker-desktop-extension/www_okteto_com/okteto-symbol-circle-inverse-1.1.png"
+      },
+      "certification_status": "",
+      "star_count": 0,
+      "filter_type": "verified_publisher"
+    },
+    {
+      "id": "",
+      "name": "OpenShift",
+      "slug": "redhatdeveloper/openshift-dd-ext",
+      "type": "extension",
+      "publisher": {
+        "name": "Red Hat Inc."
+      },
+      "created_at": "2022-05-06T00:46:00Z",
+      "updated_at": "2022-10-24T13:30:47.372306034Z",
+      "short_description": "Easily deploy and test applications onto OpenShift.",
+      "source": "community",
+      "extension_reviewed": true,
+      "popularity": 0,
+      "categories": null,
+      "operating_systems": [],
+      "architectures": [],
+      "logo_url": {
+        "large": "https://desktop.docker.com/extensions/redhatdeveloper_openshift-dd-ext/raw_githubusercontent_com/redhat-developer/vscode-openshift-tools/main/images/openshift_extension.png",
+        "small": "https://desktop.docker.com/extensions/redhatdeveloper_openshift-dd-ext/raw_githubusercontent_com/redhat-developer/vscode-openshift-tools/main/images/openshift_extension.png"
+      },
+      "certification_status": "",
+      "star_count": 0,
+      "filter_type": "community"
+    }
+  ]
+}

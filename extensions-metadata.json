@@ -1,0 +1,345 @@
+{
+  "lastUpdate": "2023-04-06T09:04:51.912Z",
+  "extensions": [
+    {
+      "CreatedTime": "2023-03-02T09:04:18.883539854Z",
+      "Categories": [
+        "database"
+      ],
+      "LatestVersion": {
+        "Tag": "21.3.0",
+        "ManifestListDigest": "sha256:47297e95068939f45f1b571ef4151eaa1ae70e860bc4a87999e30459b6954358",
+        "Platforms": [
+          {
+            "OS": "linux",
+            "Arch": "amd64",
+            "Size": 122886042,
+            "Created": "2023-02-28T12:34:50.708031426Z"
+          },
+          {
+            "OS": "linux",
+            "Arch": "arm64",
+            "Size": 121776323,
+            "Created": "2023-02-28T12:36:14.377758546Z"
+          }
+        ],
+        "Labels": {
+          "com.docker.desktop.extension.api.version": ">= 0.2.3",
+          "com.docker.desktop.extension.icon": "https://desktop.docker.com/extensions/mochoa_oraclexe-docker-extension/raw_githubusercontent_com/marcelo-ochoa/oraclexe-docker-extension/21.3.0-slim/client/public/favicon.ico",
+          "com.docker.extension.additional-urls": "[{\"title\":\"Documentation\",\"url\":\"https://github.com/marcelo-ochoa/oraclexe-docker-extension/blob/21.3.0-slim/README.md\"},    {\"title\":\"License\",\"url\":\"https://github.com/marcelo-ochoa/oraclexe-docker-extension/blob/21.3.0-slim/LICENSE\"}]",
+          "com.docker.extension.categories": "database",
+          "com.docker.extension.changelog": "See full <a href=\"https://github.com/marcelo-ochoa/oraclexe-docker-extension/blob/21.3.0-slim/CHANGELOG.md\">change log</a>",
+          "com.docker.extension.detailed-description": "Oracle Database Express Edition (XE) is the ideal way to get started.     It is the same powerful Oracle Database that enterprises rely on worldwide, packaged as simple Docker Desktop Extension, ease-of-use, and a full-featured experience.",
+          "com.docker.extension.publisher-url": "https://github.com/marcelo-ochoa/oraclexe-docker-extension/tree/21.3.0-slim",
+          "com.docker.extension.screenshots": "[{\"url\":\"https://desktop.docker.com/extensions/mochoa_oraclexe-docker-extension/raw_githubusercontent_com/marcelo-ochoa/oraclexe-docker-extension/21.3.0-slim/docs/images/screenshot1.png\",\"alt\":\"Initial Screen\"},{\"url\":\"https://desktop.docker.com/extensions/mochoa_oraclexe-docker-extension/raw_githubusercontent_com/marcelo-ochoa/oraclexe-docker-extension/21.3.0-slim/docs/images/screenshot2.png\",\"alt\":\"SQLcl - DDL generation\"},{\"url\":\"https://desktop.docker.com/extensions/mochoa_oraclexe-docker-extension/raw_githubusercontent_com/marcelo-ochoa/oraclexe-docker-extension/21.3.0-slim/docs/images/screenshot3.png\",\"alt\":\"SQLcl - SQL format XML\"},{\"url\":\"https://desktop.docker.com/extensions/mochoa_oraclexe-docker-extension/raw_githubusercontent_com/marcelo-ochoa/oraclexe-docker-extension/21.3.0-slim/docs/images/screenshot4.png\",\"alt\":\"SQLcl - Explain Plan\"}]",
+          "org.opencontainers.image.description": "Docker Extension for using Oracle XE 21c embedded RDBMS including SQLcl tool",
+          "org.opencontainers.image.title": "OracleXE 21c embedded RDBMS - Slim",
+          "org.opencontainers.image.vendor": "Marcelo Ochoa"
+        }
+      },
+      "PreviousVersions": []
+    },
+    {
+      "CreatedTime": "2023-03-23T09:04:28.382695172Z",
+      "Categories": [
+        "cloud-deployment",
+        " kubernetes"
+      ],
+      "LatestVersion": {
+        "Tag": "0.1.0-8",
+        "ManifestListDigest": "sha256:7c5108a42c7d23e1743248b16a06f4d205a363fa60b896c9bdfe2596bb042b20",
+        "Platforms": [
+          {
+            "OS": "linux",
+            "Arch": "amd64",
+            "Size": 5922937,
+            "Created": "2023-03-25T05:18:29.509368678Z"
+          },
+          {
+            "OS": "linux",
+            "Arch": "arm64",
+            "Size": 5613554,
+            "Created": "2023-03-25T05:18:29.501403417Z"
+          }
+        ],
+        "Labels": {
+          "com.docker.desktop.extension.api.version": "0.3.3",
+          "com.docker.desktop.extension.icon": "https://desktop.docker.com/extensions/flomesh_trafficguru-pro-docker-ext/flomesh_io/img/flomesh.svg",
+          "com.docker.extension.additional-urls": "[{\"title\": \"Traffic Guru Github\",\"url\":\"https://github.com/flomesh-io/traffic-guru\"},                                            {\"title\": \"ErieCanal Github\",\"url\":\"https://github.com/flomesh-io/ErieCanal\"},                                            {\"title\": \"Privacy policy\",\"url\":\"https://flomesh.io/privacy\"}]",
+          "com.docker.extension.categories": "cloud-deployment, kubernetes",
+          "com.docker.extension.changelog": "<p>Extension changelog<ul>                                     <li>Changed services and their attributes</li></ul></p>",
+          "com.docker.extension.detailed-description": "Flomesh Advance is a robust and comprehensive web control panel for Kubernetes and traffic management,                                                designed to cater to the needs of enterprise-level Kubernetes users. It provides advanced features such                                                as multi-tenancy, fine-grained permission control, multi-cluster management, and API management,                                                ensuring high levels of security, scalability, and control. With Flomesh Advance, enterprises                                                can efficiently manage and scale their containerized applications and traffic flows with ease                                                and confidence.                                               <p> For further details and inquiries, please visit                                               <a href=\"https://flomesh.io/traffic-guru\">https://flomesh.io/traffic-guru</a>",
+          "com.docker.extension.publisher-url": "https://flomesh.io",
+          "com.docker.extension.screenshots": "[{\"url\":\"https://desktop.docker.com/extensions/flomesh_trafficguru-pro-docker-ext/flomesh_io/img/screen/point2.jpg\",\"alt\":\"Service Mesh\"},{\"url\":\"https://desktop.docker.com/extensions/flomesh_trafficguru-pro-docker-ext/flomesh_io/img/screen/point3.jpg\",\"alt\":\"Network Policies\"},{\"url\":\"https://desktop.docker.com/extensions/flomesh_trafficguru-pro-docker-ext/flomesh_io/img/screen/point5.jpg\",\"alt\":\"Multi-tenancy\"},{\"url\":\"https://desktop.docker.com/extensions/flomesh_trafficguru-pro-docker-ext/flomesh_io/img/screen/point6.jpg\",\"alt\":\"Integrating non-k8s services\"},{\"url\":\"https://desktop.docker.com/extensions/flomesh_trafficguru-pro-docker-ext/flomesh_io/img/screen/point1.jpg\",\"alt\":\"L4/L7 Load balancing\"}]",
+          "org.opencontainers.image.description": "Flomesh Advance is a robust and comprehensive web control panel for Kubernetes and traffic management,                                          designed to cater to the needs of enterprise-level Kubernetes users.",
+          "org.opencontainers.image.title": "Flomesh Advance",
+          "org.opencontainers.image.vendor": "Flomesh Ltd."
+        }
+      },
+      "PreviousVersions": [
+        {
+          "Tag": "0.1.0-7",
+          "ManifestListDigest": "sha256:769d84d2f23718890ec53a613de16b5a38b6ed23588f1462cdfd36779cac99aa",
+          "Platforms": [
+            {
+              "OS": "linux",
+              "Arch": "amd64",
+              "Size": 5922960,
+              "Created": "2023-03-23T06:03:57.032746696Z"
+            },
+            {
+              "OS": "linux",
+              "Arch": "arm64",
+              "Size": 5613615,
+              "Created": "2023-03-23T06:03:57.023818094Z"
+            }
+          ],
+          "Labels": {
+            "com.docker.desktop.extension.api.version": "0.3.3",
+            "com.docker.desktop.extension.icon": "https://desktop.docker.com/extensions/flomesh_trafficguru-pro-docker-ext/flomesh_io/img/flomesh.svg",
+            "com.docker.extension.additional-urls": "[{\"title\": \"Traffic Guru Github\",\"url\":\"https://github.com/flomesh-io/traffic-guru\"},                                            {\"title\": \"ErieCanal Github\",\"url\":\"https://github.com/flomesh-io/ErieCanal\"},                                            {\"title\": \"Privacy policy\",\"url\":\"https://flomesh.io/privacy\"}]",
+            "com.docker.extension.categories": "cloud-deployment, kubernetes",
+            "com.docker.extension.changelog": "<p>Extension changelog<ul>                                     <li>Updated description</li></ul></p>",
+            "com.docker.extension.detailed-description": "Flomesh Advance is a robust and comprehensive web control panel for Kubernetes and traffic management,                                                designed to cater to the needs of enterprise-level Kubernetes users. It provides advanced features such                                                as multi-tenancy, fine-grained permission control, multi-cluster management, and API management,                                                ensuring high levels of security, scalability, and control. With Flomesh Advance, enterprises                                                can efficiently manage and scale their containerized applications and traffic flows with ease                                                and confidence.                                               <p> For further details and inquiries, please visit                                               <a href=\"https://flomesh.io/traffic-guru\">https://flomesh.io/traffic-guru</a>",
+            "com.docker.extension.publisher-url": "https://flomesh.io",
+            "com.docker.extension.screenshots": "[{\"alt\": \"Service Mesh\", \"url\": \"https://flomesh.io/img/screen/point2.jpg\"},                                       {\"alt\": \"Network Policies\", \"url\": \"https://flomesh.io/img/screen/point3.jpg\"},                                       {\"alt\": \"Multi-tenancy\", \"url\": \"https://flomesh.io/img/screen/point5.jpg\"},                                       {\"alt\": \"Integrating non-k8s services\", \"url\": \"https://flomesh.io/img/screen/point6.jpg\"},                                       {\"alt\": \"L4/L7 Load balancing\", \"url\": \"https://flomesh.io/img/screen/point1.jpg\"}]",
+            "org.opencontainers.image.description": "Flomesh Advance is a robust and comprehensive web control panel for Kubernetes and traffic management,                                          designed to cater to the needs of enterprise-level Kubernetes users.",
+            "org.opencontainers.image.title": "Flomesh Advance",
+            "org.opencontainers.image.vendor": "Flomesh Ltd."
+          }
+        },
+        {
+          "Tag": "0.1.0-6",
+          "ManifestListDigest": "sha256:7dc64937d9faac79e2cddc74c7ae4d007d020615eff32c250380d03d5fd593aa",
+          "Platforms": [
+            {
+              "OS": "linux",
+              "Arch": "amd64",
+              "Size": 5922672,
+              "Created": "2023-03-01T03:06:41.500318095Z"
+            },
+            {
+              "OS": "linux",
+              "Arch": "arm64",
+              "Size": 5613317,
+              "Created": "2023-03-01T03:06:41.499717679Z"
+            }
+          ],
+          "Labels": {
+            "com.docker.desktop.extension.api.version": "0.3.3",
+            "com.docker.desktop.extension.icon": "https://desktop.docker.com/extensions/flomesh_trafficguru-pro-docker-ext/flomesh_io/img/flomesh.svg",
+            "com.docker.extension.additional-urls": "[{\"title\": \"Github\",\"url\":\"https://github.com/flomesh-io/traffic-guru\"},                                            {\"title\": \"Privacy policy\",\"url\":\"https://flomesh.io/privacy\"}]",
+            "com.docker.extension.categories": "cloud-deployment, kubernetes",
+            "com.docker.extension.changelog": "",
+            "com.docker.extension.detailed-description": "TrafficGuru from Flomesh is an open source one stop graphical console application for cloud native traffic management.                                               It provides a multi-tenant, visual management console for management of Service Mesh, Software Load Balancing, API Management,                                               Ingress/Egress, ELB, MCS (Multi-Cluster Services).                                               TrafficGuru with the basis of micro-service registry provides traffic management capabilities and unified service governance,                                               identity management, access control and other capabilities for multiple micro service technology stacks.                                               It supports Kubernetes based services, services running on virtual machine, physical machine, or running on                                               third party micro service runtime environments.",
+            "com.docker.extension.publisher-url": "https://flomesh.io",
+            "com.docker.extension.screenshots": "[{\"alt\": \"Service Mesh\", \"url\": \"https://flomesh.io/img/screen/point2.jpg\"},                                       {\"alt\": \"Network Policies\", \"url\": \"https://flomesh.io/img/screen/point3.jpg\"},                                       {\"alt\": \"Multi-tenancy\", \"url\": \"https://flomesh.io/img/screen/point5.jpg\"},                                       {\"alt\": \"Integrating non-k8s services\", \"url\": \"https://flomesh.io/img/screen/point6.jpg\"},                                       {\"alt\": \"L4/L7 Load balancing\", \"url\": \"https://flomesh.io/img/screen/point1.jpg\"}]",
+            "org.opencontainers.image.description": "TrafficGuru is one stop GUI for cloud native traffic management of Service Mesh, Ingress, GatewayAPI, ELB, MCS, API management.",
+            "org.opencontainers.image.title": "Traffic Guru",
+            "org.opencontainers.image.vendor": "Flomesh Ltd."
+          }
+        },
+        {
+          "Tag": "0.1.0-5",
+          "ManifestListDigest": "sha256:6fbd9936f72f47cf0244cac4a5c8f7157e2048b7b4e968085917fac4e5fe4969",
+          "Platforms": [
+            {
+              "OS": "linux",
+              "Arch": "amd64",
+              "Size": 5922672,
+              "Created": "2023-02-27T15:15:03.162561544Z"
+            },
+            {
+              "OS": "linux",
+              "Arch": "arm64",
+              "Size": 5613317,
+              "Created": "2023-02-27T15:15:03.161910627Z"
+            }
+          ],
+          "Labels": {
+            "com.docker.desktop.extension.api.version": "0.3.3",
+            "com.docker.desktop.extension.icon": "https://desktop.docker.com/extensions/flomesh_trafficguru-pro-docker-ext/flomesh_io/img/flomesh.svg",
+            "com.docker.extension.additional-urls": "[{\"title\": \"Github\",\"url\":\"https://github.com/flomesh-io/traffic-guru\"},                                            {\"title\": \"Privacy policy\",\"url\":\"https://flomesh.io/privacy\"}]",
+            "com.docker.extension.categories": "cloud-deployment, kubernetes",
+            "com.docker.extension.changelog": "",
+            "com.docker.extension.detailed-description": "TrafficGuru from Flomesh is an open source one stop graphical console application for cloud native traffic management.                                               It provides a multi-tenant, visual management console for management of Service Mesh, Software Load Balancing, API Management,                                               Ingress/Egress, ELB, MCS (Multi-Cluster Services).                                               TrafficGuru with the basis of micro-service registry provides traffic management capabilities and unified service governance,                                               identity management, access control and other capabilities for multiple micro service technology stacks.                                               It supports Kubernetes based services, services running on virtual machine, physical machine, or running on                                               third party micro service runtime environments.",
+            "com.docker.extension.publisher-url": "https://flomesh.io",
+            "com.docker.extension.screenshots": "[{\"alt\": \"Service Mesh\", \"url\": \"https://flomesh.io/img/screen/point2.jpg\"},                                       {\"alt\": \"Network Policies\", \"url\": \"https://flomesh.io/img/screen/point3.jpg\"},                                       {\"alt\": \"Multi-tenancy\", \"url\": \"https://flomesh.io/img/screen/point5.jpg\"},                                       {\"alt\": \"Integrating non-k8s services\", \"url\": \"https://flomesh.io/img/screen/point6.jpg\"},                                       {\"alt\": \"L4/L7 Load balancing\", \"url\": \"https://flomesh.io/img/screen/point1.jpg\"}]",
+            "org.opencontainers.image.description": "TrafficGuru is one stop GUI for cloud native traffic management of Service Mesh, Ingress, GatewayAPI, ELB, MCS, API management.",
+            "org.opencontainers.image.title": "Traffic Guru",
+            "org.opencontainers.image.vendor": "Flomesh Ltd."
+          }
+        }
+      ]
+    },
+    {
+      "CreatedTime": "2022-12-12T00:00:00.197405487Z",
+      "Categories": [
+        "networking",
+        "utility-tools"
+      ],
+      "LatestVersion": {
+        "Tag": "0.2.6",
+        "ManifestListDigest": "sha256:559690f0f6a7044a47667ea3aaf51c807b033375fb637b6cfed5ab1b8209cd8b",
+        "Platforms": [
+          {
+            "OS": "linux",
+            "Arch": "amd64",
+            "Size": 9247762,
+            "Created": "2023-03-23T17:51:30.502681622Z"
+          },
+          {
+            "OS": "linux",
+            "Arch": "arm64",
+            "Size": 8675378,
+            "Created": "2023-03-23T17:51:50.836001995Z"
+          }
+        ],
+        "Labels": {
+          "com.docker.desktop.extension.api.version": "0.3.0",
+          "com.docker.desktop.extension.icon": "https://desktop.docker.com/extensions/akitasoftware_akita-docker-extension/akita-static-assets_s3_us-west-2_amazonaws_com/docker-extension/aki_full.svg",
+          "com.docker.extension.account-info": "required",
+          "com.docker.extension.additional-urls": "",
+          "com.docker.extension.categories": "networking,utility-tools",
+          "com.docker.extension.changelog": "See full <a href=\"https://github.com/akitasoftware/docker-extension/releases\">change log</a>",
+          "com.docker.extension.detailed-description": "<p>             Akita is the fastest, easisest way to see what API endpoints you have, what's slow, and what's throwing errors.             API monitoring, no code changes required. The Akita Docker Desktop Extension makes it easy to try out Akita without additional work.         </p>         <h2>What can you do with Akita?</h2>         <ul>             <li>                 <strong>See your API endpoints.</strong> Automatically get a searchable map of your API endpoints in use.                 Explore by latency, errors, and usage. Export as OpenAPI specs.             </li>             <li>                 <strong>See slow endpoints and endpoints with errors.</strong>                 Without having to instrument every endpoint, quickly see which endpoints need the most attention.             </li>             <li>                 <strong>Automatically monitor across your endpoints.</strong>                 Automatically monitor volume, latency, and errors across each of your endpoints.                 Set per-endpoint alerts.             </li>         </ul>                 <p>             We're in beta and would love to have you help us build the API monitoring tool you love to use!&nbsp;             <a href=\"https://www.akitasoftware.com/beta-signup?utm_source=docker&utm_medium=link&utm_campaign=beta_from_docker\">Join our beta here</a>.         </p>                 <h2>Resources</h2>         <ul>             <li><a href=\"https://www.akitasoftware.com\">Website</a></li>             <li><a href=\"https://www.akitasoftware.com/beta-signup?utm_source=docker&utm_medium=link&utm_campaign=beta_from_docker\">Beta Signup</a></li>             <li><a href=\"https://docs.akita.software/docs/docker-extension\">Docker Desktop Extension Documentation</a></li>             <li><a href=\"https://docs.akita.software/docs/\">Akita Docs</a></li>         </ul>",
+          "com.docker.extension.publisher-url": "https://www.akitasoftware.com",
+          "com.docker.extension.screenshots": "[{\"url\":\"https://desktop.docker.com/extensions/akitasoftware_akita-docker-extension/akita-static-assets_s3_us-west-2_amazonaws_com/docker-extension/dark_agent_page_screenshot.png\",\"alt\":\"Agent Page - dark screenshot\"},{\"url\":\"https://desktop.docker.com/extensions/akitasoftware_akita-docker-extension/akita-static-assets_s3_us-west-2_amazonaws_com/docker-extension/light_agent_page_screenshot.png\",\"alt\":\"Agent Page - light screenshot\"},{\"url\":\"https://desktop.docker.com/extensions/akitasoftware_akita-docker-extension/akita-static-assets_s3_us-west-2_amazonaws_com/docker-extension/dark_settings_screenshot.png\",\"alt\":\"Settings - dark screenshot\"},{\"url\":\"https://desktop.docker.com/extensions/akitasoftware_akita-docker-extension/akita-static-assets_s3_us-west-2_amazonaws_com/docker-extension/light_settings_screenshot.png\",\"alt\":\"Settings - light screenshot\"}]",
+          "org.opencontainers.image.description": "Drop in Agent for API Monitoring and Observability",
+          "org.opencontainers.image.title": "Akita API Extension",
+          "org.opencontainers.image.vendor": "Akita Software"
+        }
+      },
+      "PreviousVersions": [
+        {
+          "Tag": "0.2.5",
+          "ManifestListDigest": "sha256:55b652e1a9122071bc64296f47230cf97eea3a0d54f3416fefc27f41286f8bd5",
+          "Platforms": [
+            {
+              "OS": "linux",
+              "Arch": "amd64",
+              "Size": 9247162,
+              "Created": "2023-02-28T23:57:06.003863171Z"
+            },
+            {
+              "OS": "linux",
+              "Arch": "arm64",
+              "Size": 8674058,
+              "Created": "2023-02-28T23:54:12.433366924Z"
+            }
+          ],
+          "Labels": {
+            "com.docker.desktop.extension.api.version": "0.3.0",
+            "com.docker.desktop.extension.icon": "https://desktop.docker.com/extensions/akitasoftware_akita-docker-extension/akita-static-assets_s3_us-west-2_amazonaws_com/docker-extension/aki_full.svg",
+            "com.docker.extension.account-info": "required",
+            "com.docker.extension.additional-urls": "",
+            "com.docker.extension.categories": "networking,utility-tools",
+            "com.docker.extension.changelog": "See full <a href=\"https://github.com/akitasoftware/docker-extension/releases\">change log</a>",
+            "com.docker.extension.detailed-description": "<p>             Akita is the fastest, easisest way to see what API endpoints you have, what's slow, and what's throwing errors.             API monitoring, no code changes required. The Akita Docker Desktop Extension makes it easy to try out Akita without additional work.         </p>         <h2>What can you do with Akita?</h2>         <ul>             <li>                 <strong>See your API endpoints.</strong> Automatically get a searchable map of your API endpoints in use.                 Explore by latency, errors, and usage. Export as OpenAPI specs.             </li>             <li>                 <strong>See slow endpoints and endpoints with errors.</strong>                 Without having to instrument every endpoint, quickly see which endpoints need the most attention.             </li>             <li>                 <strong>Automatically monitor across your endpoints.</strong>                 Automatically monitor volume, latency, and errors across each of your endpoints.                 Set per-endpoint alerts.             </li>         </ul>                 <p>             We're in beta and would love to have you help us build the API monitoring tool you love to use!&nbsp;             <a href=\"https://www.akitasoftware.com/beta-signup?utm_source=docker&utm_medium=link&utm_campaign=beta_from_docker\">Join our beta here</a>.         </p>                 <h2>Resources</h2>         <ul>             <li><a href=\"https://www.akitasoftware.com\">Website</a></li>             <li><a href=\"https://www.akitasoftware.com/beta-signup?utm_source=docker&utm_medium=link&utm_campaign=beta_from_docker\">Beta Signup</a></li>             <li><a href=\"https://docs.akita.software/docs/docker-extension\">Docker Desktop Extension Documentation</a></li>             <li><a href=\"https://docs.akita.software/docs/\">Akita Docs</a></li>         </ul>",
+            "com.docker.extension.publisher-url": "https://www.akitasoftware.com",
+            "com.docker.extension.screenshots": "[         {             \"alt\": \"Agent Page - dark screenshot\",             \"url\": \"https://akita-static-assets.s3.us-west-2.amazonaws.com/docker-extension/dark_agent_page_screenshot.png\"         },         {             \"alt\": \"Agent Page - light screenshot\",             \"url\": \"https://akita-static-assets.s3.us-west-2.amazonaws.com/docker-extension/light_agent_page_screenshot.png\"         },         {             \"alt\": \"Settings - dark screenshot\",             \"url\": \"https://akita-static-assets.s3.us-west-2.amazonaws.com/docker-extension/dark_settings_screenshot.png\"         },         {             \"alt\": \"Settings - light screenshot\",             \"url\": \"https://akita-static-assets.s3.us-west-2.amazonaws.com/docker-extension/light_settings_screenshot.png\"         }     ]",
+            "org.opencontainers.image.description": "Drop in Agent for API Monitoring and Observability",
+            "org.opencontainers.image.title": "Akita API Extension",
+            "org.opencontainers.image.vendor": "Akita Software"
+          }
+        },
+        {
+          "Tag": "0.2.4",
+          "ManifestListDigest": "sha256:60689f7d6498abd44ef6f4abdb8cd4449c305303e3e5611737c3494937c71216",
+          "Platforms": [
+            {
+              "OS": "linux",
+              "Arch": "amd64",
+              "Size": 9327349,
+              "Created": "2023-02-18T06:01:49.052902554Z"
+            },
+            {
+              "OS": "linux",
+              "Arch": "arm64",
+              "Size": 8754248,
+              "Created": "2023-02-18T06:00:25.748832251Z"
+            }
+          ],
+          "Labels": {
+            "com.docker.desktop.extension.api.version": "0.3.0",
+            "com.docker.desktop.extension.icon": "https://desktop.docker.com/extensions/akitasoftware_akita-docker-extension/akita-static-assets_s3_us-west-2_amazonaws_com/docker-extension/aki_full.svg",
+            "com.docker.extension.account-info": "required",
+            "com.docker.extension.additional-urls": "",
+            "com.docker.extension.categories": "networking,utility-tools",
+            "com.docker.extension.changelog": "See full <a href=\"https://github.com/akitasoftware/docker-extension/releases\">change log</a>",
+            "com.docker.extension.detailed-description": "<p>             Akita is the fastest, easisest way to see what API endpoints you have, what's slow, and what's throwing errors.             API monitoring, no code changes required. The Akita Docker Desktop Extension makes it easy to try out Akita without additional work.         </p>         <h2>What can you do with Akita?</h2>         <ul>             <li>                 <strong>See your API endpoints.</strong> Automatically get a searchable map of your API endpoints in use.                 Explore by latency, errors, and usage. Export as OpenAPI specs.             </li>             <li>                 <strong>See slow endpoints and endpoints with errors.</strong>                 Without having to instrument every endpoint, quickly see which endpoints need the most attention.             </li>             <li>                 <strong>Automatically monitor across your endpoints.</strong>                 Automatically monitor volume, latency, and errors across each of your endpoints.                 Set per-endpoint alerts.             </li>         </ul>                 <p>             We're in beta and would love to have you help us build the API monitoring tool you love to use!&nbsp;             <a href=\"https://www.akitasoftware.com/beta-signup?utm_source=docker&utm_medium=link&utm_campaign=beta_from_docker\">Join our beta here</a>.         </p>                 <h2>Resources</h2>         <ul>             <li><a href=\"https://www.akitasoftware.com\">Website</a></li>             <li><a href=\"https://www.akitasoftware.com/beta-signup?utm_source=docker&utm_medium=link&utm_campaign=beta_from_docker\">Beta Signup</a></li>             <li><a href=\"https://docs.akita.software/docs/docker-extension\">Docker Desktop Extension Documentation</a></li>             <li><a href=\"https://docs.akita.software/docs/\">Akita Docs</a></li>         </ul>",
+            "com.docker.extension.publisher-url": "https://www.akitasoftware.com",
+            "com.docker.extension.screenshots": "[         {             \"alt\": \"Agent Page - dark screenshot\",             \"url\": \"https://akita-static-assets.s3.us-west-2.amazonaws.com/docker-extension/dark_agent_page_screenshot.png\"         },         {             \"alt\": \"Agent Page - light screenshot\",             \"url\": \"https://akita-static-assets.s3.us-west-2.amazonaws.com/docker-extension/light_agent_page_screenshot.png\"         },         {             \"alt\": \"Settings - dark screenshot\",             \"url\": \"https://akita-static-assets.s3.us-west-2.amazonaws.com/docker-extension/dark_settings_screenshot.png\"         },         {             \"alt\": \"Settings - light screenshot\",             \"url\": \"https://akita-static-assets.s3.us-west-2.amazonaws.com/docker-extension/light_settings_screenshot.png\"         }     ]",
+            "org.opencontainers.image.description": "Drop in Agent for API Monitoring and Observability",
+            "org.opencontainers.image.title": "Akita API Extension",
+            "org.opencontainers.image.vendor": "Akita Software"
+          }
+        },
+        {
+          "Tag": "0.1.4",
+          "ManifestListDigest": "sha256:554b73d5fcad5577ef2ed0a846f9a71f576c554227cff2c383265a1723be3eea",
+          "Platforms": [
+            {
+              "OS": "linux",
+              "Arch": "amd64",
+              "Size": 9319385,
+              "Created": "2023-01-09T22:58:16.109872547Z"
+            },
+            {
+              "OS": "linux",
+              "Arch": "arm64",
+              "Size": 8747597,
+              "Created": "2023-01-09T22:58:12.116536421Z"
+            }
+          ],
+          "Labels": {
+            "com.docker.desktop.extension.api.version": "0.3.0",
+            "com.docker.desktop.extension.icon": "https://desktop.docker.com/extensions/akitasoftware_akita-docker-extension/akita-static-assets_s3_us-west-2_amazonaws_com/docker-extension/aki_full.svg",
+            "com.docker.extension.account-info": "required",
+            "com.docker.extension.additional-urls": "",
+            "com.docker.extension.categories": "networking,utility-tools",
+            "com.docker.extension.changelog": "See full <a href=\"https://github.com/akitasoftware/docker-extension/releases\">change log</a>",
+            "com.docker.extension.detailed-description": "<p>             Akita is the fastest, easisest way to see what API endpoints you have, what's slow, and what's throwing errors.             API monitoring, no code changes required. The Akita Docker Desktop Extension makes it easy to try out Akita without additional work.         </p>         <h2>What can you do with Akita?</h2>         <ul>             <li>                 <strong>See your API endpoints.</strong> Automatically get a searchable map of your API endpoints in use.                 Explore by latency, errors, and usage. Export as OpenAPI specs.             </li>             <li>                 <strong>See slow endpoints and endpoints with errors.</strong>                 Without having to instrument every endpoint, quickly see which endpoints need the most attention.             </li>             <li>                 <strong>Automatically monitor across your endpoints.</strong>                 Automatically monitor volume, latency, and errors across each of your endpoints.                 Set per-endpoint alerts.             </li>         </ul>                 <p>             We're in beta and would love to have you help us build the API monitoring tool you love to use!&nbsp;             <a href=\"https://www.akitasoftware.com/beta-signup?utm_source=docker&utm_medium=link&utm_campaign=beta_from_docker\">Join our beta here</a>.         </p>                 <h2>Resources</h2>         <ul>             <li><a href=\"https://www.akitasoftware.com\">Website</a></li>             <li><a href=\"https://www.akitasoftware.com/beta-signup?utm_source=docker&utm_medium=link&utm_campaign=beta_from_docker\">Beta Signup</a></li>             <li><a href=\"https://docs.akita.software/docs/docker-extension\">Docker Desktop Extension Documentation</a></li>             <li><a href=\"https://docs.akita.software/docs/\">Akita Docs</a></li>         </ul>",
+            "com.docker.extension.publisher-url": "https://www.akitasoftware.com",
+            "com.docker.extension.screenshots": "[         {             \"alt\": \"Agent Page - dark screenshot\",             \"url\": \"https://akita-static-assets.s3.us-west-2.amazonaws.com/docker-extension/dark_agent_page_screenshot.png\"         },         {             \"alt\": \"Agent Page - light screenshot\",             \"url\": \"https://akita-static-assets.s3.us-west-2.amazonaws.com/docker-extension/light_agent_page_screenshot.png\"         },         {             \"alt\": \"Settings - dark screenshot\",             \"url\": \"https://akita-static-assets.s3.us-west-2.amazonaws.com/docker-extension/dark_settings_screenshot.png\"         },         {             \"alt\": \"Settings - light screenshot\",             \"url\": \"https://akita-static-assets.s3.us-west-2.amazonaws.com/docker-extension/light_settings_screenshot.png\"         }     ]",
+            "org.opencontainers.image.description": "Drop in Agent for API Monitoring and Observability",
+            "org.opencontainers.image.title": "Akita API Extension",
+            "org.opencontainers.image.vendor": "Akita Software"
+          }
+        },
+        {
+          "Tag": "0.1.3",
+          "ManifestListDigest": "sha256:4150432f5cb6d041586a807a95bcf55712921c1b8964d0e7abda7d58c9bcaa21",
+          "Platforms": [
+            {
+              "OS": "linux",
+              "Arch": "amd64",
+              "Size": 8718065,
+              "Created": "2022-12-12T21:22:49.145748339Z"
+            },
+            {
+              "OS": "linux",
+              "Arch": "arm64",
+              "Size": 8195291,
+              "Created": "2022-12-12T21:21:16.309335838Z"
+            }
+          ],
+          "Labels": {
+            "com.docker.desktop.extension.api.version": "0.3.0",
+            "com.docker.desktop.extension.icon": "https://desktop.docker.com/extensions/akitasoftware_akita-docker-extension/akita-static-assets_s3_us-west-2_amazonaws_com/docker-extension/aki_full.svg",
+            "com.docker.extension.account-info": "required",
+            "com.docker.extension.additional-urls": "",
+            "com.docker.extension.categories": "networking,utility-tools",
+            "com.docker.extension.changelog": "First Release!",
+            "com.docker.extension.detailed-description": "<p>             Akita is the fastest, easisest way to see what API endpoints you have, what's slow, and what's throwing errors.             API monitoring, no code changes required. The Akita Docker Desktop Extension makes it easy to try out Akita without additional work.         </p>         <h2>What can you do with Akita?</h2>         <ul>             <li>                 <strong>See your API endpoints.</strong> Automatically get a searchable map of your API endpoints in use.                 Explore by latency, errors, and usage. Export as OpenAPI specs.             </li>             <li>                 <strong>See slow endpoints and endpoints with errors.</strong>                 Without having to instrument every endpoint, quickly see which endpoints need the most attention.             </li>             <li>                 <strong>Automatically monitor across your endpoints.</strong>                 Automatically monitor volume, latency, and errors across each of your endpoints.                 Set per-endpoint alerts.             </li>         </ul>                 <p>             We're in beta and would love to have you help us build the API monitoring tool you love to use!&nbsp;             <a href=\"https://www.akitasoftware.com/beta-signup?utm_source=docker&utm_medium=link&utm_campaign=beta_from_docker\">Join our beta here</a>.         </p>                 <h2>Resources</h2>         <ul>             <li><a href=\"https://www.akitasoftware.com\">Website</a></li>             <li><a href=\"https://www.akitasoftware.com/beta-signup?utm_source=docker&utm_medium=link&utm_campaign=beta_from_docker\">Beta Signup</a></li>             <li><a href=\"https://docs.akita.software/docs/docker-extension\">Docker Desktop Extension Documentation</a></li>             <li><a href=\"https://docs.akita.software/docs/\">Akita Docs</a></li>         </ul>",
+            "com.docker.extension.publisher-url": "https://www.akitasoftware.com",
+            "com.docker.extension.screenshots": "[         {             \"alt\": \"Agent Page - dark screenshot\",             \"url\": \"https://akita-static-assets.s3.us-west-2.amazonaws.com/docker-extension/dark_agent_page_screenshot.png\"         },         {             \"alt\": \"Agent Page - light screenshot\",             \"url\": \"https://akita-static-assets.s3.us-west-2.amazonaws.com/docker-extension/light_agent_page_screenshot.png\"         },         {             \"alt\": \"Settings - dark screenshot\",             \"url\": \"https://akita-static-assets.s3.us-west-2.amazonaws.com/docker-extension/dark_settings_screenshot.png\"         },         {             \"alt\": \"Settings - light screenshot\",             \"url\": \"https://akita-static-assets.s3.us-west-2.amazonaws.com/docker-extension/light_settings_screenshot.png\"         }     ]",
+            "org.opencontainers.image.description": "Drop in Agent for API Monitoring and Observability",
+            "org.opencontainers.image.title": "Akita API Extension",
+            "org.opencontainers.image.vendor": "Akita Software"
+          }
+        }
+      ]
+    }
+  ]
+}
